@@ -1,0 +1,43 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #121212; /* Very Dark Grey Background */
+  color: #ffffff; /* White Text Color */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0d0d0d; /* Almost Black Background */
+  color: #ffffff; /* White Text Color */
+  text-align: center;
+  padding: 1em 0;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background: #1a1a1a; /* Very Dark Grey Background */
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 12px #000000; /* Black Shadow */
+}
+
+h2,
+h3 {
+  color: #ffffff; /* White Text Color */
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+.highlight {
+  color: #ffd700; /* Golden color, but feel free to choose any color */
+  font-weight: bold; /* Making the text bold */
+}
